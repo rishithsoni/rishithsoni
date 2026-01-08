@@ -1,4 +1,10 @@
 # Hi, I'm Rishith! 👋
+<img src="https://tryhackme-badges.s3.amazonaws.com/rs.rishithsoni.png" alt="Your Image Badge" />
+
+
+
+![giphy](https://github.com/user-attachments/assets/dde075ef-fe06-42ae-84ef-5db941051424) 
+![Rishith's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishithsoni&show_icons=true&theme=radical)
 
 ### 🛡️ Cybersecurity Enthusiast | Always Learning
 
