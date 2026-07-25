@@ -3,7 +3,7 @@
 
 
 
-![giphy] <img width="498" height="469" alt="giphy" src="https://github.com/user-attachments/assets/84067244-df70-416e-9ce5-15919d801930" />
+<img width="498" height="469" alt="giphy" src="https://github.com/user-attachments/assets/84067244-df70-416e-9ce5-15919d801930" />
 
 ![Rishith's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishithsoni&show_icons=true&theme=radical)
 
@@ -13,7 +13,7 @@
 ---
 
 ### 🚀 What I'm working on:
-- 🚩 Solving rooms on **TryHackMe** (Just completed RootMe!)
+- 🚩 Solving rooms on **TryHackMe** 
 - ✍️ Publishing write-ups on [Medium](https://medium.com/@rs.rishithsoni)
 - 🐍 Learning **Python** for security and automation
 
