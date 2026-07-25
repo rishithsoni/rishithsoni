@@ -3,10 +3,11 @@
 
 
 
-![giphy](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3hoNGF2YmsxbjAycDB6bDdvb3N1eDNud3dzZ3hmb3pnOHp2NDR1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif) 
+![giphy] <img width="498" height="469" alt="giphy" src="https://github.com/user-attachments/assets/84067244-df70-416e-9ce5-15919d801930" />
+
 ![Rishith's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishithsoni&show_icons=true&theme=radical)
 
-### 🛡️ Cybersecurity Enthusiast | Always Learning
+## 👤 A normal guy | Always wants to exploit
 
  **"If you aren't understanding the offensive side, you aren't truly defending."** 
 ---
