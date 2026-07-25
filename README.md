@@ -8,8 +8,7 @@
 
 ### 🛡️ Cybersecurity Enthusiast | Always Learning
 
-I am a passionate cybersecurity student currently documenting my journey through CTFs and building a solid foundation in technical security.
-
+ **"If you aren't understanding the offensive side, you aren't truly defending."** 
 ---
 
 ### 🚀 What I'm working on:
