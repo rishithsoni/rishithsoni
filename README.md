@@ -1,11 +1,10 @@
-# Hi, I'm Rishith! 👋
+# Hi, I'm Rishith soni! 👋
 <img src="https://tryhackme-badges.s3.amazonaws.com/rs.rishithsoni.png" alt="Your Image Badge" />
 
 
 
 <img width="498" height="469" alt="giphy" src="https://github.com/user-attachments/assets/84067244-df70-416e-9ce5-15919d801930" />
 
-![Rishith's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishithsoni&show_icons=true&theme=radical)
 
 ## 👤 A normal guy | Always wants to exploit
 
